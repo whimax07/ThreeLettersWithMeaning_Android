@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Three Letter Acronyms V2</string>
+    <string name="tab_text_1">Add Acronym</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="pleaseEnterALetterAcronym">Please enter a letter acronym</string>
+    <string name="added">Added: %1$s</string>
+    <string name="duplicate">Duplicate: %1$s</string>
+    <string name="acronymID">%1$s</string>
+</resources>

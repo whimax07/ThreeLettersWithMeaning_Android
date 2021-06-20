@@ -1,0 +1,2 @@
+rootProject.name = "Three Letter Acronyms V2"
+include ':app'
